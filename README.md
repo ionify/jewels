@@ -1,2 +1,2 @@
 # jewels
-jewels: json-embedded web expression languages
+json-embedded web expression languages
